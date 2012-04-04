@@ -12,8 +12,8 @@ I was expecting this project to take several hours, involve Rails, and be genera
 
 We made a blog in under 20 minutes!
 
-I am beginning to see that there are things at GitHub that might be incredibly useful for shortcuts, so you don't have to reinvent the wheel with every new project.
+I am beginning to see that there are things at [GitHub](http://github.com) that might be incredibly useful for shortcuts, so you don't have to reinvent the wheel with every new project.
 
 Can't wait to learn more!
 
-Thanks Jekyll Bootstrap!
+Thanks [Jekyll Bootstrap](http://jekyllbootstrap.com)!
