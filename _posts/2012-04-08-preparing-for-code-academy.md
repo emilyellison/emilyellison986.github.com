@@ -28,6 +28,6 @@ Alright, now it's back to the [Ruby on Rails Tutorial](http://ruby.railstutorial
 
 ---
 
-1 Incidentally, there is no reason you <b>need</b> to have [Xcode](https://developer.apple.com/xcode/) on your machine.  [Xcode](https://developer.apple.com/xcode/) is an IDE, and the vast consensus I've heard among developers thus far is that text editors are the superior method for creating apps, simply because there are fewer limits with text editors.  However, after I got my Mac, I couldn't resist checking out the Developer section of the App Store, and downloading the "hottest" free developer tool.  Lesson learned.
+1 Incidentally, there is no reason you <b>need</b> to have [Xcode](https://developer.apple.com/xcode/) on your machine.  [Xcode](https://developer.apple.com/xcode/) is an IDE, and the consensus I've heard among developers so far is that text editors are the superior method for creating apps, simply because there are fewer limits with text editors.  However, after I got my Mac, I couldn't resist checking out the Developer section of the App Store, and downloading the "hottest" free developer tool.  Lesson learned.
 
 2 If you have problems installing Git and GitHub, the [GitHub set-up page](http://help.github.com/mac-set-up-git/) is extremely helpful.
