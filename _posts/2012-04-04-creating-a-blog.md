@@ -3,7 +3,7 @@ layout: post
 title: "Creating a Blog"
 description: ""
 category: 
-tags: []
+tags: [Jekyll Bootstrap]
 ---
 {% include JB/setup %}
 So today, [Kori Roys](http://koriroys.com) told me that we were going to build a blog...

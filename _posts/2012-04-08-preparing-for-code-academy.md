@@ -2,8 +2,8 @@
 layout: post
 title: "Preparing for Code Academy"
 description: ""
-category: 
-tags: []
+category: Code Academy
+tags: [Code Academy, Ruby on Rails Installation, Ruby Tutorial, Ruby on Rails Tutorial]
 ---
 {% include JB/setup %}
 
@@ -12,11 +12,11 @@ So I've been trying to get familiar with both Ruby and Ruby on Rails before clas
 
 The installation of all the equipment necessary for Rails applications was a beastly task.
 
-[Chapter 1](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2#top) of Michael Hartl's Ruby on Rails Tutorial was where I started the installation process, by installing [Git](http://git-scm.com/) and [Ruby Version Manager (RVM)](http://beginrescueend.com/).  Then, I tried to install Ruby 1.9.3 through [RVM](http://beginrescueend.com/), but failed.  Googled the error and found out that if you have [Xcode](https://developer.apple.com/xcode/) on your machine* prior to installing Ruby 1.9.3 with [RVM](http://beginrescueend.com/), your computer may have a small [seizure](http://gifsoup.com/view/176062/computer-explodes-o.gif).  
+[Chapter 1](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2#top) of Michael Hartl's Ruby on Rails Tutorial was where I started the installation process, by installing [Git](http://git-scm.com/) and [Ruby Version Manager (RVM)](http://beginrescueend.com/).  Then, I tried to install Ruby 1.9.3 through [RVM](http://beginrescueend.com/), but failed.  Googled the error and found out that if you have [Xcode](https://developer.apple.com/xcode/) on your machine<sup>1</sup> prior to installing Ruby 1.9.3 with [RVM](http://beginrescueend.com/), your computer may have a small [seizure](http://gifsoup.com/view/176062/computer-explodes-o.gif).  
 
 That's when I found the lovely website: [Installing Ruby 1.9 and Rails 3 on Mac OS X](http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac).  It's written in plain English and walks you through the entire installation process of [GCC](https://github.com/kennethreitz/osx-gcc-installer/downloads), [Command Line Tools for Xcode](https://developer.apple.com/downloads/) (if you need it), [Git](http://git-scm.com/), [RVM](http://beginrescueend.com/), Ruby 1.9.3, [SQLite3](http://www.sqlite.org/), and [Rails](http://rubyonrails.org/).  
 
-If I were to do it over again, I would start by following all the steps on [Installing Ruby 1.9 and Rails 3 on Mac OS X](http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac).  Then, I would read [Chapter 1](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2#top) of the Ruby on Rails Tutorial to check for other things that I still need to do - like creating [GitHub](http://github.com)** and [Heroku](http://www.heroku.com/) accounts.  
+If I were to do it over again, I would start by following all the steps on [Installing Ruby 1.9 and Rails 3 on Mac OS X](http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac).  Then, I would read [Chapter 1](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2#top) of the Ruby on Rails Tutorial to check for other things that I still need to do - like creating [GitHub](http://github.com)<sup>2</sup> and [Heroku](http://www.heroku.com/) accounts.  
 
 To get familiar with Ruby, I went through the [Chris Pines' Learn to Program Tutorial](http://pine.fm/LearnToProgram/).  It's a fun journey, and he gives really good examples.
 
@@ -26,6 +26,6 @@ I've also been pair programming with [Kori Roys](http://koriroys.com).  It's ama
 
 Alright, now it's back to the [Ruby on Rails Tutorial](http://ruby.railstutorial.org/) for me.  Can't wait to start [Code Academy](http://codeacademy.org/) tomorrow!
 
-*Incidentally, there is no reason you <b>need</b> to have [Xcode](https://developer.apple.com/xcode/) on your machine.  [Xcode](https://developer.apple.com/xcode/) is an IDE, and the vast consensus I've heard among developers thus far is that text editors are the superior method for creating apps, simply because there are fewer limits with text editors.  However, after I got my Mac, I couldn't resist checking out the Developer section of the App Store, and downloading the "hottest" free developer tool.  Lesson learned.
+<sup>1</sup>Incidentally, there is no reason you <b>need</b> to have [Xcode](https://developer.apple.com/xcode/) on your machine.  [Xcode](https://developer.apple.com/xcode/) is an IDE, and the vast consensus I've heard among developers thus far is that text editors are the superior method for creating apps, simply because there are fewer limits with text editors.  However, after I got my Mac, I couldn't resist checking out the Developer section of the App Store, and downloading the "hottest" free developer tool.  Lesson learned.
 
-**/If you have problems installing Git and GitHub, the [GitHub set-up page](http://help.github.com/mac-set-up-git/) is extremely helpful.
+<sup>2</sup>If you have problems installing Git and GitHub, the [GitHub set-up page](http://help.github.com/mac-set-up-git/) is extremely helpful.
